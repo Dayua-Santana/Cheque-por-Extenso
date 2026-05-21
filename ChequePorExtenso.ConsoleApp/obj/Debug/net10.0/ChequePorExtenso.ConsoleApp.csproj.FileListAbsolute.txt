@@ -12,3 +12,4 @@ C:\Users\yuajs\Desktop\Quebra Cuca\ChequePorExtenso.ConsoleApp\obj\Debug\net10.0
 C:\Users\yuajs\Desktop\Quebra Cuca\ChequePorExtenso.ConsoleApp\obj\Debug\net10.0\ChequePorExtenso.ConsoleApp.pdb
 C:\Users\yuajs\Desktop\Quebra Cuca\ChequePorExtenso.ConsoleApp\obj\Debug\net10.0\ChequePorExtenso.ConsoleApp.genruntimeconfig.cache
 C:\Users\yuajs\Desktop\Quebra Cuca\ChequePorExtenso.ConsoleApp\obj\Debug\net10.0\ref\ChequePorExtenso.ConsoleApp.dll
+C:\Users\yuajs\Desktop\Quebra Cuca\ChequePorExtenso.ConsoleApp\obj\Debug\net10.0\ChequePorExtenso.ConsoleApp.sourcelink.json

@@ -57,7 +57,7 @@ class Program
     }
     static void Main()
     {
-      decimal valorEntrada = 1000.0m;
+      decimal valorEntrada = 57.50m;
 
       // Separando Reais e Centavos de forma matemática (mais seguro que String)
       long reais = (long)Math.Truncate(valorEntrada);
